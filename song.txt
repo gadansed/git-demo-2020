@@ -1,2 +1,4 @@
 First string of the song
-Secon string of the song
+Second string of the song
+One more line of the song
+Last line of the song
