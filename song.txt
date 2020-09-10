@@ -5,6 +5,3 @@ Last line of the song
 
 line number five
 line number six
-123
-1234
-12345
